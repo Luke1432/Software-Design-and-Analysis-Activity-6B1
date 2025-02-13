@@ -1,1 +1,3 @@
-print("This is a test for Activity 6B1")
+def add(x,y):
+    return x+y
+
